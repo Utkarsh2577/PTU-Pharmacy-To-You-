@@ -183,7 +183,7 @@ The architecture supports:
 
 ### Data Flow Diagram
 
-![image alt]([images/data_flow_diagram.png](https://github.com/Utkarsh2577/PTU-Pharmacy-To-You-/blob/main/Data%20flow%20diagram.png?raw=true))
+![image alt](https://github.com/Utkarsh2577/PTU-Pharmacy-To-You-/blob/main/Data%20flow%20diagram.png?raw=true)
 
 ---
 
@@ -215,7 +215,7 @@ The dashboard revealed that PTU had higher prices compared to competitors, limit
 
 ### PTU Sales Dashboard
 
-![PTU Sales Dashboard](images/ptu_sales_dashboard.png)
+![image alt ](images/ptu_sales_dashboard.png)
 
 ---
 

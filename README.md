@@ -183,7 +183,7 @@ The architecture supports:
 
 ### Data Flow Diagram
 
-![Data Flow Diagram](images/data_flow_diagram.png)
+![image alt]([images/data_flow_diagram.png](https://github.com/Utkarsh2577/PTU-Pharmacy-To-You-/blob/main/Data%20flow%20diagram.png?raw=true))
 
 ---
 

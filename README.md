@@ -215,7 +215,7 @@ The dashboard revealed that PTU had higher prices compared to competitors, limit
 
 ### PTU Sales Dashboard
 
-![image alt ](images/ptu_sales_dashboard.png)
+![image alt ](images/ptu_sales_dashboard.png](https://github.com/Utkarsh2577/PTU-Pharmacy-To-You-/blob/main/PTU%20Sales%20Dashboard.png?raw=true)
 
 ---
 

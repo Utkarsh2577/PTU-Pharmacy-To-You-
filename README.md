@@ -390,7 +390,7 @@ Salesforce reports were created to analyse:
 
 A Salesforce dashboard was also created to summarize order and sales performance.
 
-![image alt ](images/salesforce_order_report_dashboard.png)
+![image alt ](https://github.com/Utkarsh2577/PTU-Pharmacy-To-You-/blob/main/CRM%20Dashboard.png?raw=true)
 
 ---
 

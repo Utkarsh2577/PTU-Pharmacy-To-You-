@@ -237,7 +237,7 @@ This dashboard showed that Best Pharma performed better because of competitive p
 
 ### Best Pharma Dashboard
 
-![Best Pharma Dashboard](images/best_pharma_dashboard.png)
+![image alt](https://github.com/Utkarsh2577/PTU-Pharmacy-To-You-/blob/main/BestPharma%20Dashboard.png?raw=true)
 
 ---
 

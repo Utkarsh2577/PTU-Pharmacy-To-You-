@@ -283,7 +283,7 @@ This insight is important because PTU is located inside the hospital but still l
 
 ### Hospital Dashboard
 
-![Hospital Dashboard](images/hospital_dashboard.png)
+![image alt](https://github.com/Utkarsh2577/PTU-Pharmacy-To-You-/blob/main/Hospital%20dashboard.png?raw=true)
 
 ---
 
@@ -390,7 +390,7 @@ Salesforce reports were created to analyse:
 
 A Salesforce dashboard was also created to summarize order and sales performance.
 
-![Salesforce Order Report Dashboard](images/salesforce_order_report_dashboard.png)
+![image alt ](images/salesforce_order_report_dashboard.png)
 
 ---
 

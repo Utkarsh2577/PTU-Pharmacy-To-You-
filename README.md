@@ -337,7 +337,7 @@ It captured:
 
 A lookup relationship was created between Medicine and Supplier objects so PTU could track which supplier provides each medicine.
 
-![Salesforce Supplier Object](images/salesforce_supplier_object.png)
+![Salesforce Supplier Object]()
 
 ---
 
@@ -356,7 +356,7 @@ It captured:
 
 This allowed PTU to track customer purchase history and sales transactions.
 
-![Salesforce Order Object](images/salesforce_order_object.png)
+![Salesforce Order Object](https://github.com/Utkarsh2577/PTU-Pharmacy-To-You-/blob/main/Order%20Details.png?raw=true)
 
 ---
 

@@ -259,7 +259,7 @@ The analysis showed that PTU relied on fewer suppliers and had weaker supplier e
 
 ### Supplier Comparison Dashboard
 
-![Supplier Comparison Dashboard](images/supplier_comparison_dashboard.png)
+![image alt].(https://github.com/Utkarsh2577/PTU-Pharmacy-To-You-/blob/main/PTU%20vc%20Best%20Pharma.png?raw=true).
 
 ---
 

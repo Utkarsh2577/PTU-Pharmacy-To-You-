@@ -320,7 +320,7 @@ It captured:
 
 This helped PTU maintain structured medicine inventory records.
 
-![Salesforce Medicine Object](images/salesforce_medicine_object.png)
+![Salesforce Medicine Object](https://github.com/Utkarsh2577/PTU-Pharmacy-To-You-/blob/main/Medicine%20Details.png?raw=true)
 
 ---
 
